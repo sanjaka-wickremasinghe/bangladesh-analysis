@@ -1,8 +1,5 @@
-FIT3152 Data analytics: Assignment 1
+Bangladesh Analysis
 ================
-Sanjaka Wickremaisnghe
-2023-06-09
-
 # Libraries
 
 ``` r
